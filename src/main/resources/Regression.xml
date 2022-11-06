@@ -1,0 +1,8 @@
+<suite name = "Regression test suite">
+    <test name = "Regression Test">
+        <classes >
+            <class name = "_04_GoRestDataFromPojo"/>
+            <class name = "_03_GoRestTask"/>
+        </classes>
+    </test>
+</suite>

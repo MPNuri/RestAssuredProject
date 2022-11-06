@@ -1,0 +1,7 @@
+<suite name = "GoRest user and Post func. suite">
+    <test name = "GoRest user and Post func. positive and negative test">
+        <classes>
+            <class name ="_05_GoRestCreatingPost"/>
+        </classes>
+    </test>
+</suite>
