@@ -45,7 +45,8 @@ public class _07_DiscountMersys {
     }
 
     @Test(priority = 1)
-    public void loginPart() {
+    public void loginPart(){
+
         cookies = given()
                 .spec(reqSpec)
                 .body(logPOJO)
